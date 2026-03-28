@@ -1,4 +1,4 @@
-# HomeWizard P1 Meter Emulator for Home Assistant
+# HomeWizard P1 Meter Emulator (Python)
 
 This project is a lightweight Python-based emulator that mimics a physical **HomeWizard P1 Energy Meter** on your local network. It acts as a bridge, pulling live energy data from your **Home Assistant** instance and broadcasting it via the official HomeWizard Local API standards.
 
